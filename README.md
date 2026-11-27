@@ -91,6 +91,7 @@ Only free, working, maintained resources. Paid services appear only where their 
 
 ## Backtesting
 
+- [Strata](https://stratatester.com/?src=gh) - Web tool that audits a strategy's trade history with an A–F grade and red flags, and runs an MT5 .mq5 or .ex5 expert on real broker ticks since 2022.
 - [vectorbt](https://github.com/polakowo/vectorbt#readme) - Vectorized backtesting on pandas and NumPy, fast enough to test thousands of parameter sets.
 - [Backtesting.py](https://github.com/kernc/backtesting.py#readme) - A small, readable Python backtester with interactive result charts.
 - [backtrader](https://github.com/mementum/backtrader#readme) - An event-driven Python backtester with live broker connections; widely used, though updates are now rare.
